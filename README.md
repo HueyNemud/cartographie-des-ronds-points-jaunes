@@ -1,2 +1,2 @@
-# cartographie-des-ronds-points-jaunes
-Cartographier l'occupation des ronds points de France par les Gilets Jaunes durant les mois de novembre et décembre 2018
+# Carte des ronds points occupés par les Gilets Jaunes, novembre décembre 2018
+This is a stub
