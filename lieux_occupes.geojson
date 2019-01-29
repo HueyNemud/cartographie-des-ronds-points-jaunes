@@ -30,7 +30,8 @@
         "tag": "rond-point",
         "source": "https://www.leprogres.fr/ain-01/2018/11/14/blocages-du-17-novembre-la-carte-des-actions-des-gilets-jaunes",
         "nom": "Rond-point de l'Alagnier",
-        "infos": "Occupation le 17 novembre 2018"
+        "infos": "Occupation le 17 novembre 2018",
+        "date": "2018/11/17"
       },
       "geometry": {
         "type": "Point",
@@ -97,6 +98,26 @@
         "coordinates": [
           5.247999429702759,
           46.200797391787795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffee00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "tag": "PArking",
+        "source": "https://www.leprogres.fr/ain-01/2018/11/14/blocages-du-17-novembre-la-carte-des-actions-des-gilets-jaunes",
+        "nom": "Le rassemblement a lieu sur le parking d'Intermaché, à 8 heures. Sur Facebook, au 13 novembre, l’événement \"Rassemblement national du 17 novembre : Ambérieu-en-Bugey\", indique 133 participants et 108 personnes intéressées.",
+        "infos": "Occupation le 17 novembre 2018",
+        "date": "2018/11/17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.337316989898681,
+          45.9726250199199
         ]
       }
     }
