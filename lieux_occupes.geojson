@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffb100",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "tag": "rond-point",
+        "source": "https://www.leprogres.fr/ain-01/2018/11/14/blocages-du-17-novembre-la-carte-des-actions-des-gilets-jaunes",
+        "nom": "",
+        "infos": "Occupation le 17 novembre 2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.192898809909821,
+          46.16619720719113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffc800",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "tag": "rond-point",
+        "source": "https://www.leprogres.fr/ain-01/2018/11/14/blocages-du-17-novembre-la-carte-des-actions-des-gilets-jaunes",
+        "nom": "Rond-point de l'Alagnier",
+        "infos": "Occupation le 17 novembre 2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.269811153411865,
+          46.195116374216816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffc800",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "tag": "rond-point",
+        "source": "https://www.leprogres.fr/ain-01/2018/11/14/blocages-du-17-novembre-la-carte-des-actions-des-gilets-jaunes",
+        "nom": "Rond-point de l'Alagnier",
+        "infos": "Occupation le 17 novembre 2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2661097049713135,
+          46.240243831782166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffc800",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "tag": "rond-point",
+        "source": "https://www.leprogres.fr/ain-01/2018/11/14/blocages-du-17-novembre-la-carte-des-actions-des-gilets-jaunes",
+        "nom": "Rond-point du Guidon",
+        "infos": "Occupation le 17 novembre 2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1999664306640625,
+          46.23311231614402
+        ]
+      }
+    }
+  ]
+}
