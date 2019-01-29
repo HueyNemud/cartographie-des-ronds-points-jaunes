@@ -79,6 +79,26 @@
           46.23311231614402
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffc800",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "tag": "Parking",
+        "source": "https://www.leprogres.fr/ain-01/2018/11/14/blocages-du-17-novembre-la-carte-des-actions-des-gilets-jaunes",
+        "nom": "Point de rassemblement pour la manifestation : parking de GIFI",
+        "infos": "Occupation le 17 novembre 2018",
+        "date": "2018/11/17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.247999429702759,
+          46.200797391787795
+        ]
+      }
     }
   ]
 }
